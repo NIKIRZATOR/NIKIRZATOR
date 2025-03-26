@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Buravsky
 - 👀 I’m interested in building arduino projects
-- 🌱 I’m currently learning Python and Dart, neural networks, back-end development, mobile and web projects.
+- 🌱 I’m currently learning Python and Dart\Flutter, neural networks, back-end development, mobile and web projects.
 - 📫 How to reach me ... it`s not time yet
 - 📚 I have experience with languages like Python, Dart/Flutter 
 
